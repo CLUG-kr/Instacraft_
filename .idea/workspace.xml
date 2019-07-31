@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7e100-54af-447e-933d-f3d3ea252bd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instagram-API-python" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram-API-python" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Instagram-API-python/InstagramAPI/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram-API-python/InstagramAPI/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Instagram-API-python/examples/Example-BulkUpload.py" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram-API-python/examples/Example-BulkUpload.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Instagram-API-python/examples/user_followings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram-API-python/examples/user_followings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/instacraft_prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/instacraft_prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +20,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/instacraft_prac.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="174" column="17" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
+            <state relative-caret-position="-2253">
+              <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
               <folding>
                 <element signature="e#20#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="37" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,6 +49,11 @@
       <find>name 'api' is used prior to global declaration</find>
       <find>api</find>
       <find>ending</find>
+      <find>photo_path</find>
+      <find>p1_api</find>
+      <find>p1_pi</find>
+      <find>p2_api</find>
+      <find>p1_id</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="320" />
     <option name="width" value="1605" />
     <option name="height" value="1040" />
@@ -212,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/instacraft_prac.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="174" column="17" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
+        <state relative-caret-position="-2253">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
           <folding>
             <element signature="e#20#57#0" expanded="true" />
           </folding>
